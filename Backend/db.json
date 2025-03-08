@@ -1,10 +1,16 @@
 {
   "qarz": [
     {
-      "id": "dbdc",
+      "id": "a45e"
+    }
+  ],
+  "tarix": [
+    {
+      "id": "c637",
       "ism": "Umarbek",
-      "qarz": 12,
-      "date": "08/03/2025"
+      "qarz": 122344,
+      "date": "08/03/2025",
+      "status": false
     }
   ]
 }

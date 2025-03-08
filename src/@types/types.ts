@@ -1,6 +1,6 @@
 export type DataInfoType = {
     ism: string;
     qarz: number
-    date: Date | string 
+    date: string 
     id: string | number
 }
